@@ -2,7 +2,19 @@
     margin: auto;
     width: 50%;
     padding: 10px;
+    padding-top: 25px;
 }
 .center-text{
   text-align: center;
+}
+.cover-dec1{
+  width: 100%;
+  height: 25px;
+}
+.cover-dec2{
+  position: absolute;
+  width: 100%;
+  height: 10px;
+  top: 70;
+  z-index: -1;
 }
